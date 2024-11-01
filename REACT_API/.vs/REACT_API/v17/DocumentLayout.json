@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E14025A-DE2A-4381-B34A-327D6108581B}|REACT_API\\REACT_API.csproj|e:\\react\u002Bcore imei sol\\react_api\\react_api\\controllers\\frmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E14025A-DE2A-4381-B34A-327D6108581B}|REACT_API\\REACT_API.csproj|solutionrelative:react_api\\controllers\\frmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E14025A-DE2A-4381-B34A-327D6108581B}|REACT_API\\REACT_API.csproj|e:\\react\u002Bcore imei sol\\react_api\\react_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E14025A-DE2A-4381-B34A-327D6108581B}|REACT_API\\REACT_API.csproj|solutionrelative:react_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E14025A-DE2A-4381-B34A-327D6108581B}|REACT_API\\REACT_API.csproj|e:\\react\u002Bcore imei sol\\react_api\\react_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E14025A-DE2A-4381-B34A-327D6108581B}|REACT_API\\REACT_API.csproj|solutionrelative:react_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E14025A-DE2A-4381-B34A-327D6108581B}|REACT_API\\REACT_API.csproj|e:\\react\u002Bcore imei sol\\react_api\\react_api\\data\\frminfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E14025A-DE2A-4381-B34A-327D6108581B}|REACT_API\\REACT_API.csproj|solutionrelative:react_api\\data\\frminfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E14025A-DE2A-4381-B34A-327D6108581B}|REACT_API\\REACT_API.csproj|e:\\react\u002Bcore imei sol\\react_api\\react_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E14025A-DE2A-4381-B34A-327D6108581B}|REACT_API\\REACT_API.csproj|solutionrelative:react_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E14025A-DE2A-4381-B34A-327D6108581B}|REACT_API\\REACT_API.csproj|e:\\react\u002Bcore imei sol\\react_api\\react_api\\dbclass\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E14025A-DE2A-4381-B34A-327D6108581B}|REACT_API\\REACT_API.csproj|solutionrelative:react_api\\dbclass\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E14025A-DE2A-4381-B34A-327D6108581B}|REACT_API\\REACT_API.csproj|e:\\react\u002Bcore imei sol\\react_api\\react_api\\overlaymodels\\historyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E14025A-DE2A-4381-B34A-327D6108581B}|REACT_API\\REACT_API.csproj|solutionrelative:react_api\\overlaymodels\\historyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E14025A-DE2A-4381-B34A-327D6108581B}|REACT_API\\REACT_API.csproj|e:\\react\u002Bcore imei sol\\react_api\\react_api\\utils\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E14025A-DE2A-4381-B34A-327D6108581B}|REACT_API\\REACT_API.csproj|solutionrelative:react_api\\utils\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\REACT_API\\appsettings.json",
+              "RelativeDocumentMoniker": "REACT_API\\appsettings.json",
+              "ToolTip": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\REACT_API\\appsettings.json",
+              "RelativeToolTip": "REACT_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T17:40:57.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmInfo.cs",
+              "DocumentMoniker": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\REACT_API\\Data\\FrmInfo.cs",
+              "RelativeDocumentMoniker": "REACT_API\\Data\\FrmInfo.cs",
+              "ToolTip": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\REACT_API\\Data\\FrmInfo.cs",
+              "RelativeToolTip": "REACT_API\\Data\\FrmInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:30:58.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HistoryRequest.cs",
+              "DocumentMoniker": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\REACT_API\\OverLayModels\\HistoryRequest.cs",
+              "RelativeDocumentMoniker": "REACT_API\\OverLayModels\\HistoryRequest.cs",
+              "ToolTip": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\REACT_API\\OverLayModels\\HistoryRequest.cs",
+              "RelativeToolTip": "REACT_API\\OverLayModels\\HistoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:41:58.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\REACT_API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "REACT_API\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\REACT_API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "REACT_API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:46:47.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\REACT_API\\Program.cs",
+              "RelativeDocumentMoniker": "REACT_API\\Program.cs",
+              "ToolTip": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\REACT_API\\Program.cs",
+              "RelativeToolTip": "REACT_API\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAqwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:08:50.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmController.cs",
+              "DocumentMoniker": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\REACT_API\\Controllers\\FrmController.cs",
+              "RelativeDocumentMoniker": "REACT_API\\Controllers\\FrmController.cs",
+              "ToolTip": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\REACT_API\\Controllers\\FrmController.cs",
+              "RelativeToolTip": "REACT_API\\Controllers\\FrmController.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAIwNUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:06:02.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBClass.cs",
+              "DocumentMoniker": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\REACT_API\\DBClass\\DBClass.cs",
+              "RelativeDocumentMoniker": "REACT_API\\DBClass\\DBClass.cs",
+              "ToolTip": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\REACT_API\\DBClass\\DBClass.cs",
+              "RelativeToolTip": "REACT_API\\DBClass\\DBClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:05:51.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\REACT_API\\Utils\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "REACT_API\\Utils\\EmailHelper.cs",
+              "ToolTip": "E:\\REACT\u002BCORE IMEI SOL\\REACT_API\\REACT_API\\Utils\\EmailHelper.cs",
+              "RelativeToolTip": "REACT_API\\Utils\\EmailHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:05:38.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

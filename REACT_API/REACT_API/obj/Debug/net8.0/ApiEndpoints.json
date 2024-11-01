@@ -1,0 +1,157 @@
+[
+  {
+    "ContainingType": "REACT_API.Controllers.AuthController",
+    "Method": "GetUserDashboard",
+    "RelativePath": "api/Auth/dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "REACT_API.Controllers.AuthController",
+    "Method": "FetchUserById",
+    "RelativePath": "api/Auth/fetchuserbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "REACT_API.Controllers.AuthController",
+    "Method": "UserAuthentication",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "REACT_API.Models.user_info",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "REACT_API.Controllers.AuthController",
+    "Method": "UserAuthentication1",
+    "RelativePath": "api/Auth/login1",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "REACT_API.Models.user_info",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "REACT_API.Controllers.AuthController",
+    "Method": "SignOut",
+    "RelativePath": "api/Auth/signout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "REACT_API.Controllers.AuthController",
+    "Method": "SignOutJWT",
+    "RelativePath": "api/Auth/signoutJWT",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "REACT_API.Controllers.AuthController",
+    "Method": "TokenVerify",
+    "RelativePath": "api/Auth/token-verify",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "REACT_API.Controllers.FrmController",
+    "Method": "ProcessBulkImeiCheck",
+    "RelativePath": "api/Frm/check_imei_info",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "REACT_API.OverLayModels.ImeiRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "REACT_API.Controllers.FrmController",
+    "Method": "FetchServices",
+    "RelativePath": "api/Frm/fetch-services",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "REACT_API.Controllers.FrmController",
+    "Method": "FetchUsers",
+    "RelativePath": "api/Frm/fetch-users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "REACT_API.Controllers.FrmController",
+    "Method": "GetHistory",
+    "RelativePath": "api/Frm/history",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "REACT_API.OverLayModels.HistoryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "REACT_API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[REACT_API.WeatherForecast, REACT_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
